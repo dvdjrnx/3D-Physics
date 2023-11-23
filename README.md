@@ -10,12 +10,12 @@ A running demo of the project can be viewed at https://dvdjrnx.github.io/3d-phys
 
 ## Local development
 
-# Installation
+### Installation
 
 1. Clone the repository.
 2. Install the required dependencies by running `npm install`.
 
-# Usage
+### Usage
 
 To start the project, run the following command:
 
