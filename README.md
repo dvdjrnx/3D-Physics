@@ -2,6 +2,8 @@
 
 This project explores applying physics to a 3D scene created with Three.js and React Three Fiber. At its core, it features a spinning, rectangular block. Numerous models fall into the scene under the effects of gravity and are bounced around by the block, reacting as would be reasonably expected in the real world for their individual shapes.
 
+The project also displays a performance monitor for profiling different performance indicators, such as FPS, memory usage, and GPU load.
+
 The work was undertaken as one of many steps in acquiring [my Three.js certification](https://threejs-journey.com/certificate/view/24741) through [Three.js Journey](https://threejs-journey.com/).
 
 ## Live demo
