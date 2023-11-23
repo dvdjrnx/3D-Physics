@@ -4,16 +4,18 @@ This project explores applying physics to a 3D scene created with Three.js and R
 
 The work was undertaken as one of many steps in acquiring [my Three.js certification](https://threejs-journey.com/certificate/view/24741) through [Three.js Journey](https://threejs-journey.com/).
 
-## Demo
+## Live demo
 
 A running demo of the project can be viewed at https://dvdjrnx.github.io/3d-physics
 
-## Installation
+## Local development
+
+# Installation
 
 1. Clone the repository.
 2. Install the required dependencies by running `npm install`.
 
-## Usage
+# Usage
 
 To start the project, run the following command:
 
