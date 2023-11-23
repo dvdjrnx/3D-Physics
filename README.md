@@ -1,5 +1,7 @@
 # 3D Physics
 
+![Multiple peach cubes, a hamburger, and a yellow ball fall to a green floor with a spinning red rectangular block.](./public/3d-physics.png)
+
 This project explores applying physics to a 3D scene created with Three.js and React Three Fiber. At its core, it features a spinning, rectangular block. Numerous models fall into the scene under the effects of gravity and are bounced around by the block, reacting as would be reasonably expected in the real world for their individual shapes.
 
 The project also displays a performance monitor for profiling different performance indicators, such as FPS, memory usage, and GPU load.
